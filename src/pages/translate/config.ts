@@ -11,4 +11,5 @@ export const intlLanguages: IDropdownSelectOption[] = [
     { value: "Portuguese", label: "Português" },
     { value: "Russian", label: "Русский" },
     { value: "Chinese", label: "中文" },
+    { value: "Ukrainian", label: "乌克兰语" },
 ];
